@@ -1,0 +1,39 @@
+	
+.form-group{
+
+	font-family:verdana;
+	font-size: 14px;
+	margin-top: 2px;
+	background-position: absolute;	
+	
+}
+
+.btn{
+	font-family:verdana;
+	border-radius: 15px;
+	
+
+}
+.btn-erase{
+	background-color:red;
+	color:white;
+}
+.btn-insert{
+	background-color:green;
+	color:white;
+
+}
+.btn-enter{
+	background-color:blue;
+	color:white;
+}
+
+
+.continer{
+	width: 200px;
+	height:	100px;
+	text-align: center;
+	margin-top: 100px;
+	border: 1px;
+	border-color: black;
+}
